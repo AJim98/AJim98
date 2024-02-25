@@ -1,6 +1,5 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: [Email](A.Jimaale98@outlook.com)
 - ⚡ Fun fact: During WW2 a US submarine sunk a train.
 - 
 <!--

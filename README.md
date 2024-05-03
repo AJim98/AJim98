@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and DevOps.
+- 📫 How to reach me: [#Email]<A.Jimaale98@outlook.com> or connect with me on [#LinkedIn]<https://www.linkedin.com/in/abdirahman-jimaale-5768811b9/>
 - ⚡ Fun fact: During WW2 a US submarine sunk a train.
 <!--
 **AJim98/AJim98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
